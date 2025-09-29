@@ -1,5 +1,5 @@
 {
-    "name": "try",
+    "name": "Snake",
     "description": "",
     "dependencies": {
         "core": "*",
